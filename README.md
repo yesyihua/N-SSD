@@ -1,0 +1,2 @@
+# N-SSD
+poker detection
